@@ -3,7 +3,7 @@ FLAGS = -Wall
 
 SOURCES = PA2.cpp autocomplete.cpp term.cpp SortingList.cpp
 
-EXEC = Project2
+EXEC = Sorter
 
 OBJECTS = $(SOURCES:.cpp=.o)
 
