@@ -1,4 +1,4 @@
-# Database_Search&Sort
+# Database_Sort&Search
 This project was part of the CS216 Software Engineering Techniques Class at The University of Kentucky
 
 To run this proigram, you can use the following files
