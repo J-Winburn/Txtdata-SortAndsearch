@@ -1,6 +1,4 @@
 /* File: SortingList.cpp
- * Course: CS216-00x
- * Project: Project 2
  * Purpose: the implementation of member functions for the SortingList class.
  *          it stores a sequence of objects to perform sorting operation
  *          it is a template class
