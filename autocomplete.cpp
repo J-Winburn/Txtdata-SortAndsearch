@@ -1,7 +1,6 @@
 /* File: autocomplete.cpp
- * Course: CS216-00x
- * Project: Project 2
- * Purpose: the implementation of member functions for the class named Autocomplete.
+ * Course: CS216-00X
+ * Purpose: the implemntation of member functions for the class named Autocomplete.
  *
  */
 #include <iostream>
