@@ -1,7 +1,7 @@
 # Database_Sort&Search
 This project was part of the CS216 Software Engineering Techniques Class at The University of Kentucky
 
-To run this proigram, you can use the following files
+To run this program, you can use the following files
 
  This file contains 100,000 actors and actresses [actors.txt](https://github.com/user-attachments/files/18894764/actors.txt) 
 
